@@ -1,0 +1,45 @@
+{
+    "historias": [
+      {
+        "titulo": "La Final 2018: Boca Juniors vs River Plate",
+        "fecha": "2018",
+        "descripcion": "Una de las finales más recordadas de la Copa Libertadores, con un River Plate triunfante en el Superclásico argentino.",
+        "contenido": "La final de la Copa Libertadores 2018 entre Boca Juniors y River Plate se transformó en un clásico eterno, donde la controversia, la pasión y el fútbol desbordaron las emociones. El partido de vuelta, que originalmente iba a jugarse en La Bombonera, fue suspendido por incidentes y se disputó finalmente en Madrid, en el Santiago Bernabéu, donde River Plate logró la victoria por 3-1 en tiempo extra. Fue un espectáculo inolvidable que dejó huella en todos los hinchas sudamericanos. El gol de Juan Fernando Quintero en tiempo extra fue el que selló el destino del partido, dando a River Plate su cuarta Copa Libertadores. Esta final es recordada no solo por su intensidad, sino también por el contexto único que vivió, fuera de Argentina y con un escenario espectacular.",
+        "imagen": "boca-river2018.jpg",
+        "videoUrl": "https://youtu.be/4YKa-hQqDm8"
+      },
+      {
+        "titulo": "La Final 1999: Palmeiras vs Deportivo Cali",
+        "fecha": "1999",
+        "descripcion": "Palmeiras ganó su segunda Copa Libertadores en una final dramática ante el Deportivo Cali.",
+        "contenido": "La Copa Libertadores de 1999 dejó una de las finales más dramáticas en la historia del torneo, cuando Palmeiras se enfrentó al Deportivo Cali. Tras un empate 1-1 en el partido de ida, la vuelta en el estadio de Palmeiras se definió por penales. El partido estuvo lleno de emoción, con ambos equipos luchando por alcanzar la gloria. Finalmente, Palmeiras ganó 2-0 en la tanda de penales, llevándose su segunda Copa Libertadores. Este título fue especialmente significativo para Palmeiras, ya que lo consiguió después de una larga espera desde su primer título en 1961. La victoria también permitió al club brasileño consolidarse como uno de los gigantes del fútbol sudamericano.",
+        "imagen": "palmeiras_cali1999.jpg",
+        "videoUrl": "https://youtu.be/Fj-wJKLdiGI"
+      },
+      {
+        "titulo": "La Final 2013: Atlético Mineiro vs Olimpia",
+        "fecha": "2013",
+        "descripcion": "Atlético Mineiro conquistó su primera Copa Libertadores en un épico enfrentamiento contra Olimpia de Paraguay.",
+        "contenido": "La Copa Libertadores de 2013 se definió en una final llena de dramatismo y emoción entre Atlético Mineiro y Olimpia. En el partido de ida, disputado en Paraguay, Olimpia logró un empate 2-2, dejando la serie abierta para el partido de vuelta en Brasil. El enfrentamiento en el Estadio Mineirao estuvo marcado por una increíble actuación de Ronaldinho, quien, a pesar de los momentos difíciles del equipo, aportó su magia para llevar al Atlético Mineiro a la victoria. El equipo brasileño ganó 4-3 en el global y logró conquistar su primera Copa Libertadores en la historia del club. Esta victoria fue un hito para Mineiro, que siempre había sido uno de los clubes más importantes de Brasil, pero sin lograr esta consagración continental.",
+        "imagen": "mineiro_olimpia2013.jpg",
+        "videoUrl": "https://youtu.be/ipn_yPdi7yE"
+      },
+      {
+        "titulo": "La Final 2000: Boca Juniors vs Palmeiras",
+        "fecha": "2000",
+        "descripcion": "Boca Juniors se coronó campeón de la Copa Libertadores 2000 en una histórica final contra Palmeiras.",
+        "contenido": "La Copa Libertadores de 2000 marcó la primera victoria de Boca Juniors en el nuevo milenio. El equipo argentino se enfrentó a Palmeiras en una final apasionante. El primer partido, disputado en el estadio de Boca, terminó en empate 1-1. Sin embargo, en el partido de vuelta, que se jugó en el Estadio Palestra Itália, Boca Juniors logró imponerse por 2-0, con goles de Guillermo Barros Schelotto y Sebastián Battaglia. Esta victoria significó mucho más que un título para Boca, ya que consolidó al club como uno de los equipos más poderosos de Sudamérica en esa época, marcando el inicio de una era dorada en la que ganaría más títulos nacionales e internacionales.",
+        "imagen": "boca_palmeiras2000.jpg",
+        "videoUrl": "https://youtu.be/Oy6eec242hY"
+      },
+      {
+        "titulo": "La Final 2015: Tigres UANL vs River Plate",
+        "fecha": "2015",
+        "descripcion": "River Plate ganó su tercera Copa Libertadores al vencer al Tigres UANL en una final muy competitiva.",
+        "contenido": "La Copa Libertadores de 2015 enfrentó a River Plate y Tigres UANL en una final muy pareja que culminó con la victoria de los argentinos. En el partido de ida, jugado en Monterrey, Tigres logró un empate 0-0 con River Plate, lo que dejaba la final completamente abierta para el encuentro de vuelta en el Estadio Monumental. A pesar de las grandes actuaciones de André-Pierre Gignac, goleador de Tigres, River Plate se impuso 3-0 en la vuelta, con goles de Carlos Sánchez, Ramiro Funes Mori y Lucas Alario. La victoria marcó la tercera Copa Libertadores de River Plate y consolidó al equipo argentino como una de las potencias del continente, mientras que Tigres, a pesar de su esfuerzo, se quedó con las manos vacías en la final.",
+        "imagen": "tigres_river2015.jpg",
+        "videoUrl": "https://youtu.be/4YKa-hQqDm8"
+      }
+    ]
+  }
+  

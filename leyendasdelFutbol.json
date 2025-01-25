@@ -1,0 +1,45 @@
+{
+    "historias": [
+      {
+        "titulo": "Pelé: El Rey del Fútbol",
+        "fecha": "1957",
+        "descripcion": "Pelé, el máximo ícono del fútbol mundial, dejó una huella imborrable en la historia de este deporte.",
+        "contenido": "Pelé, considerado por muchos el mejor futbolista de todos los tiempos, comenzó su carrera profesional a la edad de 15 años y, a los 17, ya era campeón del mundo con Brasil. A lo largo de su carrera, Pelé marcó más de 1,000 goles y ganó tres Copas del Mundo (1958, 1962, 1970). Su legado trascendió el fútbol, convirtiéndose en un símbolo de la cultura popular mundial. Su habilidad técnica, su visión de juego y su capacidad para decidir partidos lo colocaron como un verdadero gigante del fútbol, siendo aún hoy un referente a seguir para generaciones posteriores.",
+        "imagen": "pele.jpg",
+        "videoUrl": "https://youtu.be/iFdNOMIUzIQ"
+      },
+      {
+        "titulo": "Diego Maradona: El Dios del Fútbol",
+        "fecha": "1986",
+        "descripcion": "Diego Maradona, una de las figuras más queridas y controversiales del fútbol, llevó a Argentina a la gloria mundial.",
+        "contenido": "Diego Maradona es recordado como uno de los jugadores más talentosos y carismáticos en la historia del fútbol. Su momento más glorioso llegó en 1986, cuando lideró a la selección de Argentina hacia su segundo título mundial, con actuaciones memorables como el gol de la 'Mano de Dios' y el 'Gol del Siglo' frente a Inglaterra en los cuartos de final. Su habilidad técnica, su control del balón y su visión de juego fueron inigualables. A pesar de su vida personal turbulenta, Maradona dejó una huella indeleble en el fútbol y sigue siendo un ícono para millones de aficionados en todo el mundo.",
+        "imagen": "maradona.jpg",
+        "videoUrl": "https://youtu.be/hA9ru3cmUuA"
+      },
+      {
+        "titulo": "Lionel Messi: El Genio de Rosario",
+        "fecha": "2003",
+        "descripcion": "Lionel Messi, considerado por muchos el mejor jugador de la historia, ha deslumbrado al mundo con su talento y humildad.",
+        "contenido": "Lionel Messi es considerado por muchos como el mejor futbolista de todos los tiempos. Desde su debut con el Barcelona en 2004, Messi ha cautivado al mundo con su increíble destreza con el balón, su capacidad para crear jugadas y su instinto goleador. A lo largo de su carrera, ha ganado numerosos títulos, incluidos múltiples Balones de Oro, y ha sido un pilar fundamental en los éxitos del Barcelona, llevando al club a ganar numerosas ligas y Champions League. Además, su habilidad para definir partidos con su zurda prodigiosa lo convierte en un referente que ha dejado una marca en la historia del fútbol. En 2021, Messi consiguió finalmente la gloria con la selección argentina al ganar la Copa América, un título que muchos consideraban pendiente en su carrera.",
+        "imagen": "messi.jpg",
+        "videoUrl": "https://youtu.be/7ZPAe4uFM4U"
+      },
+      {
+        "titulo": "Cristiano Ronaldo: El Fenómeno Portugués",
+        "fecha": "2003",
+        "descripcion": "Cristiano Ronaldo, uno de los más grandes futbolistas de la historia, ha alcanzado logros impresionantes en clubes y selecciones.",
+        "contenido": "Cristiano Ronaldo es considerado uno de los mejores futbolistas de la historia, conocido por su asombrosa capacidad física, su instinto goleador y su ética de trabajo. Desde que debutó en el Sporting de Lisboa, su carrera ha sido meteórica. Ha jugado en grandes clubes como el Manchester United, el Real Madrid, la Juventus y la selección de Portugal. Ha ganado múltiples Balones de Oro y ha establecido innumerables récords de goles. Entre sus logros más importantes se encuentran su éxito con el Real Madrid, donde ganó varias Champions League, y su conquista de la Eurocopa 2016 y la Liga de Naciones de la UEFA con Portugal. Su capacidad para rendir a su más alto nivel durante más de una década lo ha colocado en el Olimpo del fútbol.",
+        "imagen": "cristiano_ronaldo.jpg",
+        "videoUrl": "https://youtu.be/MWa-OXLz3dI"
+      },
+      {
+        "titulo": "Zinedine Zidane: El Mago Francés",
+        "fecha": "1994",
+        "descripcion": "Zinedine Zidane, uno de los jugadores más elegantes y talentosos del fútbol, dejó una marca indeleble en la historia.",
+        "contenido": "Zinedine Zidane, apodado 'Zizou', es uno de los jugadores más completos y admirados en la historia del fútbol. Su carrera se destacó por su elegancia, visión de juego y capacidad para decidir partidos importantes. Fue clave en la victoria de Francia en la Copa del Mundo de 1998, donde marcó dos goles en la final contra Brasil, y en la Eurocopa 2000. En el club, Zidane brilló en equipos como la Juventus y el Real Madrid, con el que ganó varias Champions League. Su gol de volea en la final de la Champions League 2002 con el Real Madrid es uno de los más recordados en la historia de la competencia. A lo largo de su carrera, Zidane se ganó el respeto de jugadores y aficionados por su habilidad técnica y su presencia en los momentos clave.",
+        "imagen": "zidane.jpg",
+        "videoUrl": "https://youtu.be/jpxl4eWYqUQ"
+      }
+    ]
+  }
+  

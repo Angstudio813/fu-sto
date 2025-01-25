@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Layout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Historias de futbol</h1>
+        <div class="hamburger" onclick="toggleSidebar()">☰</div>
+    </header>
+
+    <div class="container">
+        
+        <!-- Sidebar izquierdo oculto inicialmente -->
+        <aside class="sidebar left hidden" id="left-sidebar">
+            <h3>Secciones</h3>
+            <ul>    
+                <li><a href="RemontadasHistoricas.html" target="_blank">Remontadas Históricas</a></li>
+                <li><a href="CampeonesMundiales.html" target="_blank">Campeones Mundiales</a></li>
+                <li><a href="ChampionsLeage.html" target="_blank">Champions League</a></li>
+                <li><a href="CopaLibertadores.html" target="_blank">Copa Libertadores</a></li>
+                <li><a href="LeyendasdelFutbol.html" target="_blank">Leyendas del Fútbol</a></li>
+            </ul>
+        </aside>
+
+        <main class="main-content">
+            <h1>Principales Historias</h1>
+            <div id="historias-container"></div>
+            <div class="video-thumbnail">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/OxiZiZROF6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            
+        </main>
+        
+        <aside class="sidebar right">
+            <h3>Campeonatos</h3>
+            <ul>        
+                <li><a href="https://es.uefa.com/uefachampionsleague/" target="_blank">Champions Leage</a></li>
+                <li><a href="https://conmebollibertadores.com/" target="_blank">Copa Libertadores</a></li>
+                <li><a href="https://www.premierleague.com/" target="_blank">Premier League</a></li>
+                <li><a href="https://es.uefa.com/uefaeuropaleague/" target="_blank">Europa League</a></li>
+            </ul>   
+        </aside>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Historias de Fútbol. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+    "historias": [
+      {
+        "titulo": "La Final de la Champions League 1999: Manchester United",
+        "fecha": "1999",
+        "descripcion": "Una de las remontadas más emocionantes de la historia de la Champions, cuando el Manchester United derrotó al Bayern Munich.",
+        "contenido": "La final de la Champions League 1999 entre el Manchester United y el Bayern de Múnich es considerada una de las más dramáticas de la historia. El Bayern dominaba el partido y parecía tener el título en la bolsa, pero en los últimos minutos, el United logró una remontada histórica con goles de Teddy Sheringham y Ole Gunnar Solskjær en el tiempo añadido. A pesar de que el Bayern había tomado la delantera con un gol temprano de Mario Basler, la presión y el coraje del Manchester United durante los últimos momentos del partido les permitió dar vuelta el marcador. La victoria fue histórica, ya que significó el primer título de la Champions League para el Manchester United en 30 años, marcando el inicio de una era dorada bajo la dirección de Sir Alex Ferguson.",
+        "imagen": "manu1999.jpg",
+        "videoUrl": "https://youtu.be/oTgaI5QbNLc"
+      },
+      {
+        "titulo": "La Final de la Champions League 2005: Liverpool vs AC Milan",
+        "fecha": "2005",
+        "descripcion": "El milagro de Estambul: Liverpool remontó un 3-0 en contra para ganar a Milan en los penales.",
+        "contenido": "La final de la Champions League de 2005 es famosa por la increíble remontada del Liverpool contra el AC Milan. Después de ir perdiendo 3-0 en la primera mitad, el Liverpool sorprendió al mundo al empatar 3-3 en la segunda mitad, en lo que se conoce como 'El Milagro de Estambul'. Los goles de Steven Gerrard, Vladimir Smicer y Xabi Alonso fueron suficientes para empatar el partido en tiempo reglamentario. En la tanda de penales, el Liverpool ganó 3-2, con Jerzy Dudek realizando paradas heroicas, incluidas dos notables paradas ante los disparos de Andriy Shevchenko. Esta victoria fue un renacimiento para el Liverpool, que había pasado años sin conquistar la máxima gloria europea, y la remontada es considerada una de las más espectaculares en la historia del fútbol.",
+        "imagen": "milagroEstambul2005.jpg",
+        "videoUrl": "https://youtu.be/DRSi1vKOPoc"
+      },
+      {
+        "titulo": "La Final de la Champions League 2012: Chelsea vs Bayern Munich",
+        "fecha": "2012",
+        "descripcion": "Chelsea logró su primera Champions League al vencer al Bayern Munich en su propio estadio.",
+        "contenido": "La final de 2012 entre el Chelsea y el Bayern de Múnich es recordada como una de las finales más emotivas de la historia de la Champions League. El Bayern parecía tener el título en sus manos, dominando todo el partido, especialmente en el tiempo reglamentario. Thomas Müller abrió el marcador para el Bayern en el minuto 83, pero Didier Drogba, en una jugada memorable, empató el partido para el Chelsea. El Bayern tuvo múltiples oportunidades para ganar en los últimos minutos y en la prórroga, incluido un disparo al poste de Arjen Robben. Finalmente, el partido se definió en una tanda de penales donde Chelsea salió victorioso 4-3, consiguiendo su primera Champions League en la historia del club. Esta victoria fue histórica no solo por la primera conquista europea de Chelsea, sino también porque ocurrió en el estadio del Bayern, el Allianz Arena, lo que añadió aún más dramatismo a la victoria.",
+        "imagen": "chelsea_bayern_2012.jpg",
+        "videoUrl": "https://youtu.be/wtdFRWz8U-M"
+      },
+      {
+        "titulo": "La Final de la Champions League 2019: Liverpool vs Tottenham Hotspur",
+        "fecha": "2019",
+        "descripcion": "Liverpool ganó su sexta Champions League con una victoria cómoda sobre el Tottenham.",
+        "contenido": "La final de la Champions League de 2019 entre el Liverpool y el Tottenham Hotspur fue un partido muy esperado que tuvo lugar en el Wanda Metropolitano de Madrid. El Liverpool comenzó el partido con fuerza y rápidamente se adelantó en el marcador, gracias a un penalti convertido por Mohamed Salah en el minuto 2. Tottenham luchó para igualar el marcador, pero no logró superar la sólida defensa de los Reds. En la segunda mitad, Divock Origi anotó el segundo gol del Liverpool, asegurando una victoria de 2-0. La victoria le dio al Liverpool su sexta Champions League, y fue una revancha tras haber perdido en la final de 2018 ante el Real Madrid. Además, este título solidificó aún más la era dorada de Jürgen Klopp al mando del club, quien había transformado al Liverpool en uno de los equipos más imponentes del fútbol europeo.",
+        "imagen": "liverpool_tottenham_2019.jpg",
+        "videoUrl": "https://youtu.be/uI72tYaWD94"
+      },
+      {
+        "titulo": "La Final de la Champions League 2009: Barcelona vs Manchester United",
+        "fecha": "2009",
+        "descripcion": "Barcelona demostró su superioridad con un 2-0 contundente contra el Manchester United.",
+        "contenido": "La final de la Champions League 2009 entre el Barcelona y el Manchester United fue un despliegue de fútbol brillante y una demostración de la superioridad del equipo de Pep Guardiola. El Barcelona, con jugadores como Lionel Messi, Andrés Iniesta, Xavi Hernández y Samuel Eto'o, mostró un dominio absoluto sobre el campo. El primer gol llegó por parte de Eto'o, quien aprovechó un error de la defensa del United para marcar. Luego, Lionel Messi selló la victoria con un gol de cabeza, un tanto sorprendente para el argentino, conocido por su estatura. Con un 2-0 final, el Barcelona no solo se coronó campeón de Europa, sino que también mostró al mundo el fútbol de posesión y juego colectivo que marcaría su época. Esta victoria también consolidó a Barcelona como el equipo más dominante del continente, con una generación de jugadores que continuaría ganando títulos durante los siguientes años.",
+        "imagen": "barcelona_manchester_2009.jpg",
+        "videoUrl": "https://youtu.be/p6DOsNp584Q"
+      }
+    ]
+  }
+  

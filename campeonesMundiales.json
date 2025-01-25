@@ -1,0 +1,181 @@
+{
+    "historias": [
+      {
+        "titulo": "Copa del Mundo 1930: Uruguay, el primer campeón",
+        "fecha": "1930",
+        "descripcion": "Uruguay se consagró campeón en la primera edición de la Copa del Mundo, celebrada en su propio país.",
+        "contenido": "En 1930, Uruguay hizo historia al convertirse en el primer campeón mundial de la Copa del Mundo, celebrada en su país. En la final, vencieron a Argentina 4-2, en un partido lleno de emoción. La victoria fue aún más significativa ya que Uruguay estaba celebrando el centenario de su independencia.",
+        "imagen": "uruguay1930.jpg",
+        "videoUrl": "https://youtu.be/3gELBavbzWQ"
+      },
+      {
+        "titulo": "Copa del Mundo 1934: Italia, campeón en casa",
+        "fecha": "1934",
+        "descripcion": "Italia se coronó campeón de la Copa del Mundo 1934, en un torneo disputado en su propio país.",
+        "contenido": "Italia ganó su primer título mundial en 1934 al derrotar a Checoslovaquia 2-1 en tiempo extra. Dirigidos por Vittorio Pozzo, los italianos demostraron su gran calidad futbolística en un torneo donde fueron los anfitriones. Esta victoria marcó el inicio del dominio de Italia en el fútbol europeo.",
+        "imagen": "italia1934.jpg",
+        "videoUrl": "https://youtu.be/EBwZv0eFrCM"
+      },
+      {
+        "titulo": "Copa del Mundo 1938: Italia, campeones consecutivos",
+        "fecha": "1938",
+        "descripcion": "Italia defendió con éxito su título mundial en la Copa del Mundo de 1938, celebrada en Francia.",
+        "contenido": "Italia logró su segundo título mundial en 1938, al derrotar a Hungría 4-2 en la final. Con esta victoria, Italia se convirtió en el primer equipo en ganar dos Copas del Mundo consecutivas. El torneo fue clave para consolidar la superioridad futbolística de Italia durante esa era.",
+        "imagen": "italia1938.jpg",
+        "videoUrl": "https://youtu.be/dbJIqjny2Jk"
+      },
+      {
+        "titulo": "Copa del Mundo 1950: Uruguay, el Maracanazo",
+        "fecha": "1950",
+        "descripcion": "Uruguay ganó su segundo título mundial en la Copa del Mundo de 1950, en una histórica victoria contra Brasil.",
+        "contenido": "En la Copa del Mundo de 1950, Uruguay protagonizó uno de los mayores logros de la historia del fútbol al derrotar a Brasil 2-1 en la final del torneo, en el famoso 'Maracanazo'. Esta victoria, obtenida en el estadio Maracaná, fue histórica no solo por la calidad del partido, sino también por el contexto político y social en Brasil.",
+        "imagen": "uruguay1950.jpg",
+        "videoUrl": "https://youtu.be/Pu1WanatiAM"
+      },
+      {
+        "titulo": "La Copa del Mundo de 1954: El Milagro de Berna",
+        "fecha": "1954",
+        "descripcion": "La Copa del Mundo de 1954, celebrada en Suiza, es recordada por uno de los resultados más sorprendentes de la historia: la victoria de Alemania Federal sobre Hungría en la final.",
+        "contenido": "La Copa del Mundo de 1954 fue un torneo lleno de sorpresas y emociones, pero el resultado más inesperado llegó en la final. En ese Mundial, Alemania Federal (hoy Alemania) derrotó a la poderosa selección de Hungría, que llevaba una racha imparable y era considerada la favorita para ganar. El partido, que se jugó en Berna, Suiza, el 4 de julio de 1954, es conocido como el 'Milagro de Berna'.\n\nHungría había derrotado a Alemania 8-3 en la fase de grupos, pero en la final, todo cambió. Alemania Federal se impuso 3-2, a pesar de que Hungría se adelantó rápidamente con un gol de Puskás. El equipo alemán, dirigido por Sepp Herberger, logró una remontada épica, con goles de Max Morlock, Helmut Rahn, y un segundo gol de Rahn que resultó ser el gol del triunfo.\n\nLa victoria de Alemania no solo sorprendió al mundo, sino que también marcó el comienzo de la resurgencia futbolística del país después de la Segunda Guerra Mundial. Para Hungría, fue una derrota devastadora, ya que habían sido invictos durante más de cuatro años y estaban liderados por el legendario Ferenc Puskás.\n\nLa Copa del Mundo de 1954 es recordada como una de las ediciones más emocionantes y sorprendentes de la historia del fútbol. La victoria de Alemania Federal es una de las más grandes sorpresas en la historia del torneo, y esa final se sigue celebrando como un ejemplo de perseverancia y lucha por el triunfo en el fútbol.",
+        "imagen": "mundial1954.jpg",
+        "videoUrl": "https://youtu.be/7KQc2W8DNog"
+      },      
+      {
+        "titulo": "Copa del Mundo 1958: Brasil, el inicio de la era de Pelé",
+        "fecha": "1958",
+        "descripcion": "Brasil ganó su primer título mundial en 1958 en Suecia, con una destacada actuación de Pelé.",
+        "contenido": "La Copa del Mundo de 1958 en Suecia marcó el inicio de la era dorada de Brasil en el fútbol mundial. Con Pelé, un joven de 17 años, liderando el equipo, Brasil se coronó campeón al derrotar a Suecia 5-2 en la final. Pelé anotó dos goles en ese partido y dejó claro que sería una de las grandes leyendas del fútbol.",
+        "imagen": "brasil1958.jpg",
+        "videoUrl": "https://youtu.be/JE2xPzeSiBc"
+      },
+      {
+        "titulo": "Copa del Mundo 1962: Brasil, campeones en Chile",
+        "fecha": "1962",
+        "descripcion": "Brasil defendió con éxito su título mundial en la Copa del Mundo de 1962, celebrada en Chile.",
+        "contenido": "Brasil defendió con éxito su título mundial en la Copa del Mundo de 1962. A pesar de la lesión de Pelé en la fase de grupos, el equipo brasileño, con Garrincha como principal figura, derrotó a Checoslovaquia 3-1 en la final, logrando su segundo título mundial.",
+        "imagen": "brasil1962.jpg",
+        "videoUrl": "https://youtu.be/FnV_ezpSMI0"
+      },
+      {
+        "titulo": "Copa del Mundo 1966: Inglaterra campeón en casa",
+        "fecha": "1966",
+        "descripcion": "Inglaterra logró su primer y único título mundial en la Copa del Mundo de 1966, jugada en casa.",
+        "contenido": "En la Copa del Mundo de 1966, celebrada en Inglaterra, el equipo local se consagró campeón al derrotar a Alemania 4-2 en tiempo extra. Este es el único título mundial de Inglaterra, y el gol de Geoff Hurst, que muchos consideran polémico, es uno de los momentos más recordados de la historia del torneo.",
+        "imagen": "inglaterra1966.jpg",
+        "videoUrl": "https://youtu.be/FMDuHPvNtgg"
+      },
+      {
+        "titulo": "Copa del Mundo 1970: Brasil, el rey del fútbol",
+        "fecha": "1970",
+        "descripcion": "Brasil conquistó su tercer título mundial en la Copa del Mundo de 1970, con un equipo considerado uno de los mejores de la historia.",
+        "contenido": "Brasil conquistó su tercer título mundial en la Copa del Mundo de 1970, disputada en México. Dirigidos por Mário Zagallo, el equipo brasileño mostró un fútbol espectacular, con jugadores como Pelé, Jairzinho y Tostão. En la final, derrotaron a Italia 4-1, y su estilo de juego revolucionó el fútbol.",
+        "imagen": "brasil1970.jpg",
+        "videoUrl": "https://youtu.be/kBJVZ5k-F3M"
+      },
+      {
+        "titulo": "Copa del Mundo 1974: Alemania Federal, campeones en casa",
+        "fecha": "1974",
+        "descripcion": "Alemania Federal se coronó campeón en la Copa del Mundo de 1974, celebrada en su país.",
+        "contenido": "En la Copa del Mundo de 1974, Alemania Federal (hoy Alemania) se coronó campeón al derrotar a los Países Bajos 2-1 en la final. Este triunfo marcó el primer título mundial para Alemania, que en ese torneo presentó un estilo de juego innovador, bajo la dirección de Helmut Schön.",
+        "imagen": "alemania1974.jpg",
+        "videoUrl": "https://youtu.be/qSznZ9spb6A"
+      },
+      {
+        "titulo": "Copa del Mundo 1978: Argentina, campeones en casa",
+        "fecha": "1978",
+        "descripcion": "Argentina logró su primer título mundial en la Copa del Mundo de 1978, jugada en su país.",
+        "contenido": "En la Copa del Mundo de 1978, Argentina se consagró campeón al vencer a los Países Bajos 3-1 en tiempo extra, en una final jugada en Buenos Aires. Este triunfo marcó el inicio de una era dorada para el fútbol argentino, destacándose figuras como Mario Kempes, quien fue el máximo goleador del torneo.",
+        "imagen": "argentina1978.jpg",
+        "videoUrl": "https://youtu.be/2EwfHjbeNV8"
+      },
+      {
+        "titulo": "Copa del Mundo 1982: Italia, campeones en España",
+        "fecha": "1982",
+        "descripcion": "Italia ganó su tercer título mundial en la Copa del Mundo de 1982, disputada en España.",
+        "contenido": "Italia se consagró campeón del mundo por tercera vez en 1982 al vencer a Alemania Federal 3-1 en la final. Bajo la dirección de Enzo Bearzot, Italia mostró un fútbol defensivo sólido y una gran actuación de Paolo Rossi, quien se destacó como máximo goleador del torneo.",
+        "imagen": "italia1982.jpg",
+        "videoUrl": "https://youtu.be/Tv4SDyOBB9E"
+      },
+      {
+        "titulo": "Copa del Mundo 1986: Argentina, el campeón de Maradona",
+        "fecha": "1986",
+        "descripcion": "Argentina ganó su segundo título mundial en la Copa del Mundo de 1986, con Diego Maradona como gran figura.",
+        "contenido": "En la Copa del Mundo de 1986, celebrada en México, Argentina logró su segundo título mundial bajo la dirección de Carlos Bilardo. La figura indiscutida fue Diego Maradona, quien anotó dos de los goles más emblemáticos de la historia del fútbol: la 'Mano de Dios' y el 'Gol del Siglo' contra Inglaterra. En la final, Argentina venció a Alemania Federal 3-2 en un partido épico.",
+        "imagen": "argentina1986.jpg",
+        "videoUrl": "https://youtu.be/5KRaPOcKPLg"
+      },
+      {
+        "titulo": "Copa del Mundo 1990: Alemania Federal, campeones de nuevo",
+        "fecha": "1990",
+        "descripcion": "Alemania Federal ganó su tercer título mundial en la Copa del Mundo de 1990, celebrada en Italia.",
+        "contenido": "En la Copa del Mundo de 1990, Alemania Federal se coronó campeón al derrotar a Argentina 1-0 en la final. El único gol del partido fue anotado por Andreas Brehme, de penalti. Este título marcó el tercer campeonato mundial de Alemania, que se destacó por su solidez defensiva y su capacidad para manejar los momentos cruciales del torneo.",
+        "imagen": "alemania1990.jpg",
+        "videoUrl": "https://youtu.be/hu1meVUoIKQ"
+      },
+      {
+        "titulo": "Copa del Mundo 1994: Brasil, campeón en EE.UU.",
+        "fecha": "1994",
+        "descripcion": "Brasil ganó su cuarto título mundial en la Copa del Mundo de 1994, celebrada en Estados Unidos.",
+        "contenido": "En la Copa del Mundo de 1994, Brasil logró su cuarto título mundial al derrotar a Italia en la final en una tanda de penaltis tras un empate 0-0. La selección dirigida por Carlos Alberto Parreira se destacó por su solidez defensiva y por tener a jugadores como Romário, Bebeto y Dunga. La victoria en 1994 consolidó a Brasil como una potencia del fútbol mundial.",
+        "imagen": "brasil1994.jpg",
+        "videoUrl": "https://youtu.be/u0-8aQeaGP0"
+      },
+      {
+        "titulo": "Copa del Mundo 1998: Francia, campeón en casa",
+        "fecha": "1998",
+        "descripcion": "Francia ganó su primer título mundial en la Copa del Mundo de 1998, celebrada en su propio país.",
+        "contenido": "En la Copa del Mundo de 1998, Francia se coronó campeón en casa al derrotar a Brasil 3-0 en la final. Zinedine Zidane fue la gran figura, anotando dos goles de cabeza en la primera mitad. Esta victoria representó el inicio de una generación dorada para el fútbol francés, que logró imponer su estilo de juego durante la década siguiente.",
+        "imagen": "francia1998.jpg",
+        "videoUrl": "https://youtu.be/FO4gVJE0t9Q"
+      },
+      {
+        "titulo": "Copa del Mundo 2002: Brasil, campeón por quinta vez",
+        "fecha": "2002",
+        "descripcion": "Brasil se coronó campeón por quinta vez en la Copa del Mundo de 2002, celebrada en Corea y Japón.",
+        "contenido": "Brasil ganó su quinta Copa del Mundo en 2002 al derrotar a Alemania 2-0 en la final, con dos goles de Ronaldo, quien fue el máximo goleador del torneo. Esta victoria consolidó a Brasil como el país con más títulos mundiales, y Ronaldo se convirtió en una de las leyendas del fútbol por su destacada actuación.",
+        "imagen": "brasil2002.jpg",
+        "videoUrl": "https://youtu.be/9wvCJE82T8U"
+      },
+      {
+        "titulo": "Copa del Mundo 2006: Italia, campeones tras 24 años",
+        "fecha": "2006",
+        "descripcion": "Italia ganó su cuarto título mundial en la Copa del Mundo de 2006, en una final histórica contra Francia.",
+        "contenido": "En la Copa del Mundo de 2006, celebrada en Alemania, Italia se coronó campeón tras vencer a Francia en una tanda de penaltis, luego de un empate 1-1 en el tiempo reglamentario. El gol de Zinedine Zidane en la final para Francia y el penalti decisivo de Fabio Grosso para Italia son momentos que quedarán grabados en la historia del fútbol.",
+        "imagen": "italia2006.jpg",
+        "videoUrl": "https://youtu.be/_8vkl0hXd3U"
+      },
+      {
+        "titulo": "Copa del Mundo 2010: España, campeones por primera vez",
+        "fecha": "2010",
+        "descripcion": "España ganó su primera Copa del Mundo en la edición 2010, celebrada en Sudáfrica.",
+        "contenido": "En la Copa del Mundo de 2010, celebrada en Sudáfrica, España logró su primer título mundial al derrotar a los Países Bajos 1-0 en la final con un gol de Andrés Iniesta en tiempo extra. El equipo dirigido por Vicente del Bosque mostró un fútbol brillante basado en la posesión y el toque, y su victoria marcó un hito para el fútbol español.",
+        "imagen": "espana2010.jpg",
+        "videoUrl": "https://youtu.be/oh3baDi1KGE"
+      },
+      {
+        "titulo": "Copa del Mundo 2014: Alemania, campeones en Brasil",
+        "fecha": "2014",
+        "descripcion": "Alemania ganó su cuarto título mundial en la Copa del Mundo de 2014, celebrada en Brasil.",
+        "contenido": "En la Copa del Mundo de 2014, Alemania se coronó campeón tras vencer a Argentina 1-0 en tiempo extra, con un gol de Mario Götze. Este título representó el cuarto campeonato mundial para Alemania, y el torneo estuvo marcado por una impresionante actuación de la selección alemana, que dejó una huella en el fútbol internacional.",
+        "imagen": "alemania2014.jpg",
+        "videoUrl": "https://youtu.be/eokwhnairdQ"
+      },
+      {
+        "titulo": "Copa del Mundo 2018: Francia, campeones por segunda vez",
+        "fecha": "2018",
+        "descripcion": "Francia ganó su segundo título mundial en la Copa del Mundo de 2018, celebrada en Rusia.",
+        "contenido": "Francia se coronó campeón del mundo por segunda vez en la Copa del Mundo de 2018, celebrada en Rusia, al derrotar a Croacia 4-2 en la final. El equipo, dirigido por Didier Deschamps, destacó por su solidez defensiva y su ataque letal, con figuras como Kylian Mbappé, quien se convirtió en una de las estrellas del torneo.",
+        "imagen": "francia2018.jpg",
+        "videoUrl": "https://youtu.be/GrsEAvRerTg"
+      },
+      {
+        "titulo": "Copa del Mundo 2022: Argentina, campeones en Qatar",
+        "fecha": "2022",
+        "descripcion": "Argentina ganó su tercer título mundial en la Copa del Mundo de 2022, en Qatar, con una destacada actuación de Lionel Messi.",
+        "contenido": "Argentina se coronó campeona de la Copa del Mundo 2022 en Qatar al derrotar a Francia 4-2 en la tanda de penaltis, tras un empate 3-3 en tiempo reglamentario y tiempo extra. Lionel Messi, quien fue el líder indiscutido del equipo durante todo el torneo, jugó un papel fundamental, llevando a Argentina a su tercer título mundial.",
+        "imagen": "argentina2022.jpg",
+        "videoUrl": "https://youtu.be/OrrjrTWdPTY"
+      }
+    ]
+  }
+  
